@@ -1,2 +1,3 @@
 # hello-world
-All Ideas
+
+Hi Bob here. Total noob. Don't Read this...
